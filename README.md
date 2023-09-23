@@ -1,2 +1,2 @@
 # Web-App
- Creating a dynamic Web APp using Python, Flask and more.
+ Creating a dynamic Web App using Python, Flask and more.
